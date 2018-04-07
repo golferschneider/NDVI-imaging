@@ -6,6 +6,7 @@ Hardware:
   - Raspberry pi 2 B
   - RasPiRobot v3 board for controlling the stepper motor
   - I beleive we used a Nema 23 stepper motor
+  - Rosco #2007 filter/gel (to put over camera)
 
 *runImaging.py*  
   This controls the lights, stepper motor, and sets up all directories to hold the image files. 
